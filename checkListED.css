@@ -1,0 +1,86 @@
+.bouton-violet {
+    background-color: #AD49E1;
+    width: 200px;
+    font-size: 23px;
+    color: white;
+    border: none;
+    height: 80px;
+    display: flex; 
+    align-items: center; 
+    justify-content: center;
+}
+
+.bouton-violet:hover {
+    background-color: #9B40D8;
+    color: white;
+}
+
+.bg-color {
+    background-color: #2E073F;
+}
+
+.CLED-titre {
+    font-size: 100px; 
+    margin-top: 3px; 
+    color: #EBD3F8;
+}
+
+.big-CLED {
+    font-size: 200px; 
+    margin-top: 10px; 
+    color: #EBD3F8;
+}
+
+.label {
+    color: #AD49E1; 
+    font-size: 23px;
+}
+
+.big-username {
+    font-size: 100px; 
+    margin-top: 3px; 
+    color: #EBD3F8
+}
+
+.titre-contenu {
+    color: #AD49E1; 
+    font-size: 70px; 
+    margin-left: 150px; 
+    margin-right: 150px; 
+    margin-top: 100px
+}
+
+.fond-liste {
+    margin-right: 200px; 
+    margin-left: 200px; 
+    background:#EBD3F8;
+}
+
+
+.chk-box {
+    width: 70px; 
+    height: 70px;
+    margin: 5px;
+    border-color: black;
+    cursor: pointer;
+    align-items: center;
+}
+
+.chk-text {
+    font-size: 43px;
+    margin: 5px;
+    align-items: center;
+    cursor: pointer;
+}
+
+.checked {
+    background-color: #a4fd80;
+}
+
+.unchecked {
+    background-color: rgb(245, 125, 125);
+}
+
+.chk-row  {
+    border:gray;
+}
